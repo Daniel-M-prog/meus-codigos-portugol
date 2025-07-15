@@ -6,8 +6,8 @@ inicio
    leia(num)
    con<- num%2
    se (con = 1) ENTAO
-      escrevaL("esse número é impar")
+      escrevaL("esse nÃºmero Ã© impar")
    senao
-      escreva("esse número é par")
+      escreva("esse nÃºmero Ã© par")
    fimse
 fimalgoritmo
