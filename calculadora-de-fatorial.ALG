@@ -15,7 +15,7 @@ inicio
          s <- s*m
          m <- m - 1
       ate (m = 1)
-      escreval(n1,"! é igual a: ", s)
+      escreval(n1,"! Ã© igual a: ", s)
       escreva("Voce deseja contiuar? [S/N]")
       leia(resp)
       limpatela
