@@ -10,7 +10,7 @@ inicio
    escreval("Quantos alunos a turma tem?")
    leia(q1)
    n1 <- 0
-   enquanto (n1 < q1) faça
+   enquanto (n1 < q1) faÃ§a
             n1 <- n1 + 1
             escreval("---------------------")
             escreval("    ALUNO ", n1       )
