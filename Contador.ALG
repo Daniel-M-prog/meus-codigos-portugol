@@ -5,7 +5,7 @@ inicio
    escreval("------------------")
    escreval("     CONTADOR     ")
    escreval("------------------")
-   escreval("Início: ")
+   escreval("InÃ­cio: ")
    leia(i1)
    escreval("Final: ")
    leia(f1)
@@ -13,18 +13,18 @@ inicio
    escreval("     CONTANDO     ")
    escreval("------------------")
    se (f1 > i1) entao
-      enquanto (i1 <= f1) faça
+      enquanto (i1 <= f1) faÃ§a
                escreva(i1,"... ")
                i1 <- i1 + 1
       fimenquanto
    senao
         se (i1 > f1)entao
-           enquanto (i1 >= f1) faça
+           enquanto (i1 >= f1) faÃ§a
                escreva(i1, "... ")
                i1 <- i1 - 1
            fimenquanto
         senao
-           escreva("O valor inicial é igual o valor final.")
+           escreva("O valor inicial Ã© igual o valor final.")
        fimse
    fimse
 fimalgoritmo
