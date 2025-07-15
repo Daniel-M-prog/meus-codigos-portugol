@@ -5,7 +5,7 @@ inicio
    escreval("-------------------")
    escreval("    NUMERO PRIMO   ")
    escreval("-------------------")
-   escreval("qual numero voce quer saber se é primo?")
+   escreval("qual numero voce quer saber se Ã© primo?")
    leia(n1)
    m <- 1
    s <- 1
@@ -21,8 +21,8 @@ inicio
          m <- m - 1
    ate(m = 0)
    se (c - 1 = cont - 2)entao
-      escreval("esse numero é primo")
+      escreval("esse numero Ã© primo")
    senao
-        escreval("esse numero nao é primo")
+        escreval("esse numero nao Ã© primo")
    fimse
 fimalgoritmo
