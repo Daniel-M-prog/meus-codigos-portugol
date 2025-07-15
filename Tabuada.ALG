@@ -6,14 +6,14 @@ inicio
       escreval("----------------------")
       escreval("       TABUADA        ")
       escreval("----------------------")
-      escreval("me diga um número: ")
+      escreval("me diga um nÃºmero: ")
       leia(n1)
       cont <- 0
       S <- 0
       repita
             cont <- cont + 1
             S <- n1 * cont
-            escreval(n1," x",cont ," é = ", S)
-      até (cont > 9)
+            escreval(n1," x",cont ," Ã© = ", S)
+      atÃ© (cont > 9)
 
 fimalgoritmo
