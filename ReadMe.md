@@ -83,7 +83,7 @@ This repo documents my path from beginner to professional, with the goal of stan
 ---
 ## 📲 Contact
 
-- LinkedIn: [Your profile here]  
-- GitHub: [Your username here]  
+- LinkedIn: https://www.linkedin.com/in/daniel-209872374/
+- GitHub: Daniel-M-prog
 ---
 > "Every expert was once a beginner who dared to start." — Unknown
