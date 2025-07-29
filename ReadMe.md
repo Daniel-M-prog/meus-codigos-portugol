@@ -1,4 +1,4 @@
-# my-initial-programming-studies-and-exercises
+# simple-projects
 Este repositório marca o início da minha jornada no mundo da programação. Aqui você encontrará meus primeiros códigos, anotações de estudos e pequenos projetos enquanto desenvolvo minha base em lógica, algoritmos e linguagens de programação.
 ---
 ## 📌 Sobre o Repositório
